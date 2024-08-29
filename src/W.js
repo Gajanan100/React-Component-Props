@@ -6,7 +6,7 @@ export const W = () => {
   return (
     <>
         <div>
-            I am <span style={{color:"seagreen", fontWeight:"bold"}}>U</span> & my parent is V.js
+            I am <span style={{color:"seagreen", fontWeight:"bold"}}>U</span> & my parents is V.js
         </div>
     <X/>
     </>
